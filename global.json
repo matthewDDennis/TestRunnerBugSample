@@ -1,0 +1,6 @@
+﻿{
+    "projects": [ "src", "test", "src/Framework/Common", "src/Framework/ReferenceData" ],
+    "sdk": {
+        "version": "1.0.0-beta5-11682"
+    }
+}
